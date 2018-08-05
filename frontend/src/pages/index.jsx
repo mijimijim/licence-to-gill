@@ -205,7 +205,7 @@ class Index extends Component {
               <Card className={classes.card} elevation={1}>
                 <CardMedia
                   className={classes.cover}
-                  image="https://cdn.pixabay.com/photo/2016/09/19/14/59/old-fashioned-1680437_960_720.jpg"
+                  image="https://preview.ibb.co/c1bPAe/shop.jpg"
                   title="fisherman"
                 />
                 <CardContent >
@@ -228,7 +228,7 @@ class Index extends Component {
               <Card className={classes.card} elevation={1}>
                 <CardMedia
                   className={classes.cover}
-                  image="https://cdn.pixabay.com/photo/2017/07/24/21/37/fish-2536121_960_720.jpg"
+                  image="https://preview.ibb.co/e2kvGK/fish.jpg"
                   title="fisherman"
                 />
                 <CardContent >
@@ -251,7 +251,7 @@ class Index extends Component {
               <Card className={classes.card} elevation={1}>
                 <CardMedia
                   className={classes.cover}
-                  image="https://cdn.pixabay.com/photo/2016/02/12/10/15/netting-1195767_960_720.jpg"
+                  image="https://preview.ibb.co/cVwfiz/fishermen.jpg"
                   title="fisherman"
                 />
                 <CardContent >
